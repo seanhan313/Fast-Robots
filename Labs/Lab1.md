@@ -19,4 +19,4 @@ The goal of this lab was to get familiar with the Artemis RedBoard Nano from Spa
 Note: The code for the 4 example sketches came installed with the Arduino IDE and the Apollo3 board package. 
 
 ## Results
-
+![Serial](./Lab1Images/Serial.JPG)
