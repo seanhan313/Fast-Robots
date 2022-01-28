@@ -15,10 +15,10 @@ The goal of this lab was to get familiar with the Artemis RedBoard Nano from Spa
 2. The Apollo3 board package was installed to allow the Artemis RedBoard Nano to be compatible. Then, the physical Artemis RedBoard Nano was connected to the computer via the USB-A to USB-C Cable. 
 3. The Blink example sketch was uploaded to the board to make the built-in LED turn on and off repeatedly.
 4. The Serial example was uploaded to test the board's serial port's functionality. The figure below shows the working serial monitor.
-![Serial](../Lab1Images/Serial.JPG)
+![](../Lab1Images/Serial.JPG)
 5. The analogRead example was uploaded to test the board's temperature sensor. The board's temperature readings were observed while it was held in hands and then blown on.The figure below shows the working temperature sensor.
-![Serial](../Lab1Images/analogRead.JPG)
+![](../Lab1Images/analogRead.JPG)
 6. The MicrophoneOutput example was uploaded to test the board's frequency sensor. The frequency readings were observed while whistling and and singing near the board. The figure below shows the working frequency sensor.
-![Serial](../Lab1Images/frequency.JPG)
+![](../Lab1Images/frequency.JPG)
 
 Note: The code for the 4 example sketches came installed with the Arduino IDE and the Apollo3 board package. 

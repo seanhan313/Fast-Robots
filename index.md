@@ -1,9 +1,7 @@
-# Sean Han
-Hi! My name is Sean Han and I am currrently a junior Mechanical Engineering major. Welcome to my website for the course ECE 4960: Fast Robots. 
+# Sean Han's ECE 4960 Page
 
 
-
-##Labs
+## Labs
 [Lab 1](./Labs/Lab1.md)  
 [Lab 2](./Labs/Lab2.md)  
 [Lab 3](./Labs/Lab3.md)  
@@ -17,3 +15,7 @@ Hi! My name is Sean Han and I am currrently a junior Mechanical Engineering majo
 [Lab 11](./Labs/Lab11.md)  
 [Lab 12](./Labs/Lab12.md)  
 [Lab 13](./Labs/Lab13.md)  
+
+## About Me
+![](./selfie.JPG)
+Hi! Welcome to my website for the course ECE 4960: Fast Robots.  My name is Sean Han and I am currrently a junior Mechanical Engineering major at Cornell University. I'm from Long Island, NY and I love to play volleyball in my free time. 
