@@ -12,7 +12,7 @@ The goal of this lab was to get familiar with the Artemis RedBoard Nano from Spa
 
 ## Procedure
 1. The Arduino IDE was installed.  
-2. The Apollo3 board package was installed to allow the Artemis RedBoard Nano to be compatible. Then, the physical Artemis RedBoard Nano was connected to the computer via the USB-A to USB-C Cable. The figure below shows the Artemis RedBoard Nano being powered on.
+2. The Apollo3 board package was installed to allow the Artemis RedBoard Nano to be compatible. Then, the physical Artemis RedBoard Nano was connected to the computer via the USB-A to USB-C Cable. The figure below shows the Artemis RedBoard Nano being powered on.  
 <img src="../Lab1Images/ArtemisBoard.jpg">
 
 3. The Blink example sketch was uploaded to the board to make the built-in LED turn on and off repeatedly. 
