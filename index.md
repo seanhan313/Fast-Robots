@@ -18,5 +18,6 @@
 
 ## About Me
 ![](Lab1Images/selfie.JPG)
+<img src="Lab1Images/selfie.jpg">
 
 Hi! Welcome to my website for the course ECE 4960: Fast Robots.  My name is Sean Han and I am currrently a junior Mechanical Engineering major at Cornell University. I'm from Long Island, NY and I love to play volleyball in my free time. 
