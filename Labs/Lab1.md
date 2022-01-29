@@ -8,7 +8,7 @@ The goal of this lab was to get familiar with the Artemis RedBoard Nano from Spa
 ## Materials/Tools Used
 * 1 Sparkfun Artemis RedBoard Nano
 * 1 Computer
-* 1 USB-A to USB-C Cable
+* 1 USB-A to USB-C Cable 
 
 ## Procedure
 1. The Arduino IDE was installed.  
